@@ -5,6 +5,7 @@ This is an overview of all of my Github repositories, since it was even hard for
 <b>1. PSUs</b><br>
 * <a href="https://github.com/svenpetersen1965/C64-replacement-PSU-230VAC-">C64 replacement PSU 230VAC</a> Rev. 2<br>
 * <a href="https://github.com/svenpetersen1965/C64-PSU-Global">C64 PSU Global</a> Rev. 0 & 1, for 115V and 230V<br>
+* <a href="https://github.com/svenpetersen1965/C64_PSU_Z66">C64 PSU "Z66"</a> Rev. 1, a "low cost" PSU for C64 (230V)
 
 <b>2. Diagnostic</b><br>
 * <a href="https://github.com/svenpetersen1965/C64-Diagnostic-Rev.-586220-Harness">Diagnostic Harness</a> Rev 0 - 2, a harness for Diagnostic Rev. 586220 etc. <br>
@@ -18,7 +19,10 @@ This is an overview of all of my Github repositories, since it was even hard for
 * <a href="https://github.com/svenpetersen1965/Diag64cart">Diag64cart</a> Rev. 0 - 2, a multiple diagnostic cartride
 
 <b>5. Adapters</b><br>
-* <a href="https://github.com/svenpetersen1965/C64-Kernal-Adaptor-Switch-short-board-">Kernal Adapter (short board) Rev. 0 - 2, an adapter for 27C64-27C512 EPROMs and some EEPROMs
+* <a href="https://github.com/svenpetersen1965/C64-Kernal-Adaptor-Switch-short-board-">Kernal Adapter (short board)</a> Rev. 0 - 2, an adapter for 27C64-27C512 EPROMs and some EEPROMs
+* <a href="https://github.com/svenpetersen1965/C64-Kernal-Adapter-Switch-Long-Board">Kernal Adapter (long board)</a> Rev. 0 - 2, an adapter for 27C64-27C512 EPROMs and some EEPROMs
+* <a href="https://github.com/svenpetersen1965/C64-CHARSET-Adaptor-Switch">Character Set Adapter</a> Rev. 0 & 1, an adapter for 27C64-27C512 EPROMs and some EEPROMs
+
 
 <b>6. Diverse</b><br>
 * <a href="https://github.com/svenpetersen1965/C64-WiFi-Modem-User-Port">Wifi Modem for the user port</a> Rev. 0 - 2, also works with the VIC-20 and the PET (adapter required)
