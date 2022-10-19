@@ -16,7 +16,7 @@ This is an overview of all of my Github repositories, since it was even hard for
 
 <b>3. Video</b><br>
 * <a href="https://github.com/svenpetersen1965/C64-A-V-Adaptor">C64 A/V-Adapter</a> Rev 0 - 2, an audio/video breakout board
-* <a href="https://github.com/svenpetersen1965/LumaFix64">LumaFix64</a>v1.2, a PCB layout for e5frogs jailbar remover
+* <a href="https://github.com/svenpetersen1965/LumaFix64">LumaFix64</a> v1.2, a PCB layout for e5frogs jailbar remover
 
 <b>4. Cartridges</b><br>
 * <a href="https://github.com/svenpetersen1965/Diag64cart">Diag64cart</a> Rev. 0 - 2, a multiple diagnostic cartride
@@ -36,10 +36,10 @@ This is an overview of all of my Github repositories, since it was even hard for
 * <a href="https://github.com/svenpetersen1965/Pi1541-HAT">Pi1541 Hat</a> Rev. 2, Pi 1541 Hat, a 1541 emuator
 * <a href="https://github.com/svenpetersen1965/C64-WiFi-Modem-User-Port">Wifi Modem for the user port</a> Rev. 0 - 2, also works with the VIC-20 and the PET (adapter required)
 * <a href="https://github.com/svenpetersen1965/Versa64cart-adapter_km20-z7">VersaCart/KM20 and Z7 case holder</a> 3D-printable adapter
-* <a href="https://github.com/svenpetersen1965/C64-Control-Port-Switch-Rapid-Fire-">Joystick Switch and Rapid Fire</a>Rev. 1
+* <a href="https://github.com/svenpetersen1965/C64-Control-Port-Switch-Rapid-Fire-">Joystick Switch and Rapid Fire</a> Rev. 1
 * <a href="https://github.com/svenpetersen1965/C64-Promenade-Model-D">Promenade Model D</a> Rev. 0, a remake of the Jason-Ranheim EPROM programmer
 * <a href="https://github.com/svenpetersen1965/C64-Kernal-2.1">A modified Commodore C64 Kernal</a> that kills the fake CBM80 signature and prevents the hook up after some copy protected games
-* <a href="https://github.com/svenpetersen1965/Joystick-for_commodore_and_atar">Joystick for C64, VIC-20 etc. (and Atari)</a>Rev. 0
+* <a href="https://github.com/svenpetersen1965/Joystick-for_commodore_and_atar">Joystick for C64, VIC-20 etc. (and Atari)</a> Rev. 0
 * <a href="https://github.com/svenpetersen1965/Illuminated-Commmodore-logo">Illuminated Commodore Logo</a> Rev. 0 (PCB & 3D Print)
 * <a href="https://github.com/svenpetersen1965/Illuminated-64-logo">Illuminated 64 Logo</a> Rev. 0 (3D Print)
 * <a href="https://github.com/svenpetersen1965/openC64case">openC64case</a> 3D printable case for the openC64cart
