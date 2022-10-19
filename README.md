@@ -29,6 +29,7 @@ This is an overview of all of my Github repositories, since it was even hard for
 * <a href="https://github.com/svenpetersen1965/1541-parallel-adapter-SpeedDOS">Speed DOS adapter for 1541, 1541-2, 1541C and C64</a> Rev. 0
 
 <b>6. Diverse</b><br>
+* <a href="https://github.com/svenpetersen1965/C64-Keyboard-Controlled-Kernal-Switch">Keyboard Controlled Kernal Switch</a> Rev. 0 & 1, my coolest and least known project
 * <a href="https://github.com/svenpetersen1965/C64-WiFi-Modem-User-Port">Wifi Modem for the user port</a> Rev. 0 - 2, also works with the VIC-20 and the PET (adapter required)
 * <a href="https://github.com/svenpetersen1965/Versa64cart-adapter_km20-z7">VersaCart/KM20 and Z7 case holder</a> 3D-printable adapter
 * <a href="https://github.com/svenpetersen1965/C64-Control-Port-Switch-Rapid-Fire-">Joystick Switch and Rapid Fire</a>Rev. 1
