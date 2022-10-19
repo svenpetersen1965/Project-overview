@@ -27,6 +27,7 @@ This is an overview of all of my Github repositories, since it was even hard for
 * <a href="https://github.com/svenpetersen1965/C64-Kernal-Adapter-Switch-Long-Board">Kernal Adapter (long board)</a> Rev. 0 - 2, an adapter for 27C64-27C512 EPROMs and some EEPROMs
 * <a href="https://github.com/svenpetersen1965/C64-CHARSET-Adaptor-Switch">Character Set Adapter</a> Rev. 0 & 1, an adapter for 27C64-27C512 EPROMs and some EEPROMs
 * <a href="https://github.com/svenpetersen1965/1541-parallel-adapter-SpeedDOS">Speed DOS adapter for 1541, 1541-2, 1541C and C64</a> Rev. 0
+* <a href="https://github.com/svenpetersen1965/Ultimate-64-Keyboard-Adapter">Keyboard Adapter for the Ultimate 64</a> Rev. 0
 
 <b>6. Diverse</b><br>
 * <a href="https://github.com/svenpetersen1965/C64-Keyboard-Controlled-Kernal-Switch">Keyboard Controlled Kernal Switch</a> Rev. 0 & 1, my coolest and least known project
@@ -34,6 +35,8 @@ This is an overview of all of my Github repositories, since it was even hard for
 * <a href="https://github.com/svenpetersen1965/Versa64cart-adapter_km20-z7">VersaCart/KM20 and Z7 case holder</a> 3D-printable adapter
 * <a href="https://github.com/svenpetersen1965/C64-Control-Port-Switch-Rapid-Fire-">Joystick Switch and Rapid Fire</a>Rev. 1
 * <a href="https://github.com/svenpetersen1965/C64-Promenade-Model-D">Promenade Model D</a> Rev. 0, a remake of the Jason-Ranheim EPROM programmer
+* <a href="https://github.com/svenpetersen1965/C64-Kernal-2.1">A modified Commodore C64 Kernal</a> that kills the fake CBM80 signature and prevents the hook up after some copy protected games
+* <a href="https://github.com/svenpetersen1965/Joystick-for_commodore_and_atar">Joystick for C64, VIC-20 etc. (and Atari)</a>Rev. 0
 
 # C128 Projects
 * <a href="https://github.com/svenpetersen1965/C128-A-V-Adapter">C128 A/V-Adapter</a> Rev. 0,  an audio/video breakout board
