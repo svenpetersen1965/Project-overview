@@ -6,6 +6,7 @@ This is an overview of all of my Github repositories, since it was even hard for
 * <a href="https://github.com/svenpetersen1965/C64-replacement-PSU-230VAC-">C64 replacement PSU 230VAC</a> Rev. 2<br>
 * <a href="https://github.com/svenpetersen1965/C64-PSU-Global">C64 PSU Global</a> Rev. 0 & 1, for 115V and 230V<br>
 * <a href="https://github.com/svenpetersen1965/C64_PSU_Z66">C64 PSU "Z66"</a> Rev. 1, a "low cost" PSU for C64 (230V)
+* <a href="https://github.com/svenpetersen1965/C64-PSU-Combi">C64 PSU Combi</a> Rev. 0 & 1, A PSU for C64/VIC-20CR/C128, some Amiga, and two 1541-II
 
 <b>2. Diagnostic</b><br>
 * <a href="https://github.com/svenpetersen1965/C64-Diagnostic-Rev.-586220-Harness">Diagnostic Harness</a> Rev 0 - 2, a harness for Diagnostic Rev. 586220 etc. <br>
@@ -21,6 +22,7 @@ This is an overview of all of my Github repositories, since it was even hard for
 * <a href="https://github.com/svenpetersen1965/Diag64cart">Diag64cart</a> Rev. 0 - 2, a multiple diagnostic cartride
 * <a href="https://github.com/svenpetersen1965/C64---Cart64out">Cart64out</a> Rev. 0, 0a, a breakout board for the expansion port
 * <a href="https://github.com/svenpetersen1965/Epyx-FastLoad">Epyx Fastload</a>, Rev. 0 & 1
+* <a href="https://github.com/svenpetersen1965/REX-9628-Extern-Kernal-8">REX-9628-Extern-Kernal-8</a> Rev. 0, remke of the REX kernal cartridge
 
 <b>5. Adapters</b><br>
 * <a href="https://github.com/svenpetersen1965/C64-Kernal-Adaptor-Switch-short-board-">Kernal Adapter (short board)</a> Rev. 0 - 2, an adapter for 27C64-27C512 EPROMs and some EEPROMs
@@ -37,6 +39,7 @@ This is an overview of all of my Github repositories, since it was even hard for
 * <a href="https://github.com/svenpetersen1965/C64-Promenade-Model-D">Promenade Model D</a> Rev. 0, a remake of the Jason-Ranheim EPROM programmer
 * <a href="https://github.com/svenpetersen1965/C64-Kernal-2.1">A modified Commodore C64 Kernal</a> that kills the fake CBM80 signature and prevents the hook up after some copy protected games
 * <a href="https://github.com/svenpetersen1965/Joystick-for_commodore_and_atar">Joystick for C64, VIC-20 etc. (and Atari)</a>Rev. 0
+* <a href="https://github.com/svenpetersen1965/Illuminated-Commmodore-logo">Illuminated Commodore Logo</a> Rev. 0 (PCB & 3D Print)
 
 # C128 Projects
 * <a href="https://github.com/svenpetersen1965/C128-A-V-Adapter">C128 A/V-Adapter</a> Rev. 0,  an audio/video breakout board
