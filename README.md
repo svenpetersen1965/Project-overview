@@ -42,6 +42,9 @@ This is an overview of all of my Github repositories, since it was even hard for
 * <a href="https://github.com/svenpetersen1965/Joystick-for_commodore_and_atar">Joystick for C64, VIC-20 etc. (and Atari)</a>Rev. 0
 * <a href="https://github.com/svenpetersen1965/Illuminated-Commmodore-logo">Illuminated Commodore Logo</a> Rev. 0 (PCB & 3D Print)
 * <a href="https://github.com/svenpetersen1965/Illuminated-64-logo">Illuminated 64 Logo</a> Rev. 0 (3D Print)
+* <a href="https://github.com/svenpetersen1965/openC64case">openC64case</a> 3D printable case for the openC64cart
+* <a href="https://github.com/svenpetersen1965/Versa64Case">Versa64case</a> 3D printable case for the Versa64cart
+* <a href="https://github.com/svenpetersen1965/SIDalyzer">SIDalyzer</a> A software for trying out the SID parameters
 
 # C128 Projects
 * <a href="https://github.com/svenpetersen1965/C128-A-V-Adapter">C128 A/V-Adapter</a> Rev. 0,  an audio/video breakout board
