@@ -35,10 +35,14 @@ This is an overview of all of my Github repositories, since it was even hard for
 # C128 Projects
 * <a href="https://github.com/svenpetersen1965/C128-A-V-Adapter">C128 A/V-Adapter</a> Rev. 0,  an audio/video breakout board
 
+# C16 Projects
+* <a href="https://github.com/svenpetersen1965/23128-Adapter-passive">EPROM Adapter for 23128 ROMs</a> Rev. 0
+
 # VIC-20 Projects
   * <a href="https://github.com/svenpetersen1965/VIC-20_Diagnostics">VIC-20 Diagnostic Harness</a>, Rev. 0
   * <a href="https://github.com/svenpetersen1965/VIC-20-Hyper-Expander">Hyper Expander</a> Rev. 0 - 2, a ROM (8k & 16k) and RAM (upto 37k) cartride
   * <a href="https://github.com/svenpetersen1965/Commodore-VIC-20-Super-Expander-II">Super Expander II</a> Rev. 0 & 1, a Super Expander cartridge board
+  * <a href="https://github.com/svenpetersen1965/VIC-20-RAM-Expansion-Test-Software">RAM Expansion Test Software</a> Rev. 0 & 1
   * <a href="https://github.com/svenpetersen1965/VIC-20_AV-Adapter">VIC-20 A/V-Adapter</a> Rev. 0 & 1, an audio/video breakout board
   * <a href="https://github.com/svenpetersen1965/VIC-20_Character_ROM_Adapter">VIC-20 Character ROM adapter</a> Rev. 0, , an adapter for 27C64-27C512 EPROMs and some EEPROMs
 
