@@ -52,3 +52,4 @@ This is an overview of all of my Github repositories, since it was even hard for
   
 # Other Projects
   * <a href="https://github.com/svenpetersen1965/RS232-loopback">RS-232 Loopback</a> Rev. 0, a loop back connector for testing serial interfaces<br>
+  * <a href="https://github.com/svenpetersen1965/Stepper_Motor_Controller">Stepper Motor Controller</a> Rev. 0
