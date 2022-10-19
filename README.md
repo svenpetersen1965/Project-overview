@@ -23,15 +23,17 @@ This is an overview of all of my Github repositories, since it was even hard for
 <b>6. Diverse</b><br>
 * <a href="https://github.com/svenpetersen1965/C64-WiFi-Modem-User-Port">Wifi Modem for the user port</a> Rev. 0 - 2, also works with the VIC-20 and the PET (adapter required)
 
-# C128 Projects#
-* <a href="https://github.com/svenpetersen1965/C128-A-V-Adapter>C128 A/V-Adapter</a> Rev. 0,  an audio/video breakout board
+# C128 Projects
+* <a href="https://github.com/svenpetersen1965/C128-A-V-Adapter">C128 A/V-Adapter</a> Rev. 0,  an audio/video breakout board
 
 # VIC-20 Projects
-* <a href="https://github.com/svenpetersen1965/VIC-20-Hyper-Expander">Hyper Expander</a> Rev. 0 - 2, a ROM (8k & 16k) and RAM (upto 37k) cartride<br>
+  * <a href="https://github.com/svenpetersen1965/VIC-20-Hyper-Expander">Hyper Expander</a> Rev. 0 - 2, a ROM (8k & 16k) and RAM (upto 37k) cartride<br>
+  * <a href="https://github.com/svenpetersen1965/VIC-20_AV-Adapter">VIC-20 A/V-Adapter</a> Rev. 0 & 1, an audio/video breakout board
 
 # PET Projects
   * <a href="https://github.com/svenpetersen1965/PET-2332-Adapter">2332 Adapter</a> Rev. 1, an adapter board for 27C64-27C512 EPROMs and some EEPROMs
   * <a href="https://github.com/svenpetersen1965/PET-CBM-SCRGRID">SCRGRID</a> a software that printed a grid on the PET monitor
+  * <a href="https://github.com/svenpetersen1965/PET_CBM_1541_Adapter">PET/CBM adapter for the 1541 floppy  disk drive</a> Rev. 0
   
 # Other Projects
   * <a href="https://github.com/svenpetersen1965/RS232-loopback">RS-232 Loopback</a> Rev. 0, a loop back connector for testing serial interfaces<br>
