@@ -33,6 +33,7 @@ This is an overview of all of my Github repositories, since it was even hard for
 
 <b>6. Diverse</b><br>
 * <a href="https://github.com/svenpetersen1965/C64-Keyboard-Controlled-Kernal-Switch">Keyboard Controlled Kernal Switch</a> Rev. 0 & 1, my coolest and least known project
+* <a href="https://github.com/svenpetersen1965/Pi1541-HAT">Pi1541 Hat</a> Rev. 2, Pi 1541 Hat, a 1541 emuator
 * <a href="https://github.com/svenpetersen1965/C64-WiFi-Modem-User-Port">Wifi Modem for the user port</a> Rev. 0 - 2, also works with the VIC-20 and the PET (adapter required)
 * <a href="https://github.com/svenpetersen1965/Versa64cart-adapter_km20-z7">VersaCart/KM20 and Z7 case holder</a> 3D-printable adapter
 * <a href="https://github.com/svenpetersen1965/C64-Control-Port-Switch-Rapid-Fire-">Joystick Switch and Rapid Fire</a>Rev. 1
