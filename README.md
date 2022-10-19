@@ -14,7 +14,8 @@ This is an overview of all of my Github repositories, since it was even hard for
 * <a href="https://github.com/svenpetersen1965/C64---Cart64out">Cart64out</a> Rev. 0, 0a, a breakout board for the expansion port
 
 <b>3. Video</b><br>
-* <a href="https://github.com/svenpetersen1965/C64-A-V-Adaptor">C64 A/V-Adapter</a> Rev 0 - 2, an audio/video breakout board<br>
+* <a href="https://github.com/svenpetersen1965/C64-A-V-Adaptor">C64 A/V-Adapter</a> Rev 0 - 2, an audio/video breakout board
+* <a href="https://github.com/svenpetersen1965/LumaFix64">LumaFix64</a>v1.2, a PCB layout for e5frogs jailbar remover
 
 <b>4. Cartridges</b><br>
 * <a href="https://github.com/svenpetersen1965/Diag64cart">Diag64cart</a> Rev. 0 - 2, a multiple diagnostic cartride
@@ -31,6 +32,7 @@ This is an overview of all of my Github repositories, since it was even hard for
 * <a href="https://github.com/svenpetersen1965/C64-WiFi-Modem-User-Port">Wifi Modem for the user port</a> Rev. 0 - 2, also works with the VIC-20 and the PET (adapter required)
 * <a href="https://github.com/svenpetersen1965/Versa64cart-adapter_km20-z7">VersaCart/KM20 and Z7 case holder</a> 3D-printable adapter
 * <a href="https://github.com/svenpetersen1965/C64-Control-Port-Switch-Rapid-Fire-">Joystick Switch and Rapid Fire</a>Rev. 1
+* <a href="https://github.com/svenpetersen1965/C64-Promenade-Model-D">Promenade Model D</a> Rev. 0, a remake of the Jason-Ranheim EPROM programmer
 
 # C128 Projects
 * <a href="https://github.com/svenpetersen1965/C128-A-V-Adapter">C128 A/V-Adapter</a> Rev. 0,  an audio/video breakout board
