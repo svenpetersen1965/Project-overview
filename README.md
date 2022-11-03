@@ -1,6 +1,16 @@
 # Project Overview
 This is an overview of all of my Github repositories, since it was even hard for me to find one of the many project repositories quickly.
 
+# Documentation of the projects
+All projects are fully documented. My directory structure is, each Hardware projects has revision subfolder. Each Revision sobfolder has several subfolders, the most important are:
+* Eagle (The Eagle CAD files)
+* Gerber (Gerber data)
+* pdf (the ducumentation, please read!)
+* Text (Word files)
+* ...
+
+I am adding a *_noFrame.brd file to the Eagle subfolders right now. Some PCB manufacturers don't get along with my board headers, so, I have created a copy of the board (*.brd) files and remove the header. In case the gerber files cannot be processed, you might want to try this. In a next step, I will generate Gerber files without the frame, too. 
+
 # C64 Projects
 <b>1. PSUs</b><br>
 * <a href="https://github.com/svenpetersen1965/C64-replacement-PSU-230VAC-">C64 replacement PSU 230VAC</a> Rev. 2<br>
