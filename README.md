@@ -4,6 +4,7 @@ This is an overview of all of my Github repositories, since it was even hard for
 # Documentation of the projects
 All projects are fully documented. My directory structure is, each Hardware projects has revision subfolder. Each Revision sobfolder has several subfolders, the most important are:
 * Eagle (The Eagle CAD files)
+* Excel (The BOM, maybe some calculations)
 * Gerber (Gerber data)
 * pdf (the ducumentation, please read!)
 * Text (Word files)
