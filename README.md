@@ -58,7 +58,7 @@ I am adding a *_noFrame.brd file to the Eagle subfolders right now. Some PCB man
 * <a href="https://github.com/svenpetersen1965/SIDalyzer">SIDalyzer</a> A software for trying out the SID parameters
 
 # C128 Projects
-* <a href="https://github.com/svenpetersen1965/C128-A-V-Adapter">C128 A/V-Adapter</a> Rev. 0,  an audio/video breakout board
+* <a href="https://github.com/svenpetersen1965/C128-A-V-Adapter">C128 A/V-Adapter</a> Rev. 0 & 1, an audio/video breakout board
 
 # C16 Projects
 * <a href="https://github.com/svenpetersen1965/23128-Adapter-passive">EPROM Adapter for 23128 ROMs</a> Rev. 0
