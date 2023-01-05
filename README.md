@@ -21,7 +21,7 @@ I am adding a *_noFrame.brd file to the Eagle subfolders right now. Some PCB man
 
 <b>2. Diagnostic</b><br>
 * <a href="https://github.com/svenpetersen1965/C64-Diagnostic-Rev.-586220-Harness">Diagnostic Harness</a> Rev 0 - 2, a harness for Diagnostic Rev. 586220 etc. <br>
-* <a href="https://github.com/svenpetersen1965/Commodore-Keyboard-Tester">Commodore Keyboard Tester</a> Rev. 0 & 1, for measuring the resistance of all Commodore matrix keyboards<br>
+* <a href="https://github.com/svenpetersen1965/Commodore-Keyboard-Tester">Commodore Keyboard Tester</a> Rev. 0 & 1, for measuring the resistance of all Commodore matrix keyboards - now with a 3D-printed case<br>
 * <a href="https://github.com/svenpetersen1965/Diag64cart">Diag64cart</a> Rev. 0 - 2, a multiple diagnostic cartride
 * <a href="https://github.com/svenpetersen1965/C64---Cart64out">Cart64out</a> Rev. 0, 0a, 1, a breakout board for the expansion port
 
