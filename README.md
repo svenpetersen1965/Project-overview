@@ -77,7 +77,7 @@ I am adding a *_noFrame.brd file to the Eagle subfolders right now. Some PCB man
   * <a href="https://github.com/svenpetersen1965/PET_CBM_1541_Adapter">PET/CBM adapter for the 1541 floppy  disk drive</a> Rev. 0
   * <a href="https://github.com/svenpetersen1965/C64-WiFi-Modem-Adapter-for-PET-CBM">Adapter for the C64 Wifi Modem</a> Rev. 0
   * <a href="https://github.com/svenpetersen1965/CBM-Tape-Pi-PCB">PCB for Rhino Devel's CBM Tape Pi</a> Rev. 2 & 3
-  * <a href="https://github.com/svenpetersen1965/Commodore-Port-Breakout">Commodore Port Breakout</a> Rev. 0 <b>(Preliminary!)</b>
+  * <a href="https://github.com/svenpetersen1965/Commodore-Port-Breakout">Commodore Port Breakout</a> Rev. 0
   
 # Other Projects
   * <a href="https://github.com/svenpetersen1965/RS232-loopback">RS-232 Loopback</a> Rev. 0, a loop back connector for testing serial interfaces<br>
