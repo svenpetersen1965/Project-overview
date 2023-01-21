@@ -34,6 +34,7 @@ I am adding a *_noFrame.brd file to the Eagle subfolders right now. Some PCB man
 * <a href="https://github.com/svenpetersen1965/C64---Cart64out">Cart64out</a> Rev. 0, 0a, 1,  a breakout board for the expansion port
 * <a href="https://github.com/svenpetersen1965/Epyx-FastLoad">Epyx Fastload</a>, Rev. 0 - 2
 * <a href="https://github.com/svenpetersen1965/REX-9628-Extern-Kernal-8">REX-9628-Extern-Kernal-8</a> Rev. 0, remke of the REX kernal cartridge
+* <a href="https://github.com/svenpetersen1965/Kernal64cart">Kernal64cart</a>, Rev. 0 - 2 <b>Preliminary release!</b>
 
 <b>5. Adapters</b><br>
 * <a href="https://github.com/svenpetersen1965/C64-Kernal-Adaptor-Switch-short-board-">Kernal Adapter (short board)</a> Rev. 0 - 2, an adapter for 27C64-27C512 EPROMs and some EEPROMs
