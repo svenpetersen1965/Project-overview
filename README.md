@@ -17,7 +17,7 @@ I am adding a *_noFrame.brd file to the Eagle subfolders right now. Some PCB man
 * <a href="https://github.com/svenpetersen1965/C64-replacement-PSU-230VAC-">C64 replacement PSU 230VAC</a> Rev. 2<br>
 * <a href="https://github.com/svenpetersen1965/C64-PSU-Global">C64 PSU Global</a> Rev. 0 & 1, for 115V and 230V<br>
 * <a href="https://github.com/svenpetersen1965/C64_PSU_Z66">C64 PSU "Z66"</a> Rev. 1, a "low cost" PSU for C64 (230V)
-* <a href="https://github.com/svenpetersen1965/C64-PSU-Combi">C64 PSU Combi</a> Rev. 0 & 1, A PSU for C64/VIC-20CR/C128, some Amiga, and two 1541-II
+* <a href="https://github.com/svenpetersen1965/C64-PSU-Combi">C64 PSU Combi</a> Rev. 0 - 2, A PSU for C64/VIC-20CR/C128, some Amiga, and two 1541-II
 
 <b>2. Diagnostic</b><br>
 * <a href="https://github.com/svenpetersen1965/C64-Diagnostic-Rev.-586220-Harness">Diagnostic Harness</a> Rev 0 - 2, a harness for Diagnostic Rev. 586220 etc. <br>
