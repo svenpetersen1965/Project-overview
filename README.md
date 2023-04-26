@@ -72,6 +72,7 @@ I am adding a *_noFrame.brd file to the Eagle subfolders right now. Some PCB man
   * <a href="https://github.com/svenpetersen1965/VIC-20-RAM-Expansion-Test-Software">RAM Expansion Test Software</a> Rev. 0 & 1
   * <a href="https://github.com/svenpetersen1965/VIC-20_AV-Adapter">VIC-20 A/V-Adapter</a> Rev. 0 - 2, an audio/video breakout board
   * <a href="https://github.com/svenpetersen1965/VIC-20_Character_ROM_Adapter">VIC-20 Character ROM adapter</a> Rev. 0, an adapter for 27C64-27C512 EPROMs and some EEPROMs
+  * <a href="https://www.thingiverse.com/thing:5261083">Commodore VIC-20 9VAC Euro Connector</a> on thingyverse.com
 
 # PET Projects
   * <a href="https://github.com/svenpetersen1965/PET-2332-Adapter">2332 Adapter</a> Rev. 1, an adapter board for 27C64-27C512 EPROMs and some EEPROMs
