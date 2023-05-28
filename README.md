@@ -88,3 +88,4 @@ I am adding a *_noFrame.brd file to the Eagle subfolders right now. Some PCB man
   * <a href="https://github.com/svenpetersen1965/Stepper_Motor_Controller">Stepper Motor Controller</a> Rev. 0
   * <a href="https://github.com/svenpetersen1965/Framemeister_Overlay_English">Keyboard Overlay for the Framemeister RC</a> 
   * <a href="https://github.com/svenpetersen1965/DIN-connector_soldering-aid-The-Potato">The Potato</a> Rev. 0: A DIN connector soldering-aid
+  * <a href="https://github.com/svenpetersen1965/Atari-XL-XE-A-V-Adapter">Atari XL/XE A/V-Adapter</a> Rev. 0 & 1: An A/V-Adapter for Atari XL and XE 8bit computers 
