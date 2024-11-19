@@ -58,6 +58,7 @@ I am adding a *_noFrame.brd file to the Eagle subfolders right now. Some PCB man
 * <a href="https://github.com/svenpetersen1965/Versa64Case">Versa64case</a> 3D printable case for the Versa64cart
 * <a href="https://github.com/svenpetersen1965/SIDalyzer">SIDalyzer</a> A software for trying out the SID parameters
 * <a href="https://github.com/svenpetersen1965/IEC-Bus-Breakout-Board">IEC-bus Breakout Board</a> A breakout board for the IEC bus, drivers and optional level shifters included. Preliminary release!
+* <a href="https://github.com/svenpetersen1965/Versa64case-v2">Versa64case v2</a> Rev. 0: 3D printable case for the Versa64cart newer version
 
 # C128 Projects
 * <a href="https://github.com/svenpetersen1965/C128-A-V-Adapter">C128 A/V-Adapter</a> Rev. 0 & 1, an audio/video breakout board
