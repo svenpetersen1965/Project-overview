@@ -82,7 +82,7 @@ I am adding a *_noFrame.brd file to the Eagle subfolders right now. Some PCB man
   * <a href="https://github.com/svenpetersen1965/C64-WiFi-Modem-Adapter-for-PET-CBM">Adapter for the C64 Wifi Modem</a> Rev. 0
   * <a href="https://github.com/svenpetersen1965/CBM-Tape-Pi-PCB">PCB for Rhino Devel's CBM Tape Pi</a> Rev. 2 & 3
   * <a href="https://github.com/svenpetersen1965/Commodore-Port-Breakout">Commodore Port Breakout</a> Rev. 0
-  * <a href="https://github.com/svenpetersen1965/PET-Diagnostic-Clip">Diagnostic Clip</a> Rev. 0 - 2
+  * <a href="https://github.com/svenpetersen1965/PET-Diagnostic-Clip">Diagnostic Clip</a> Rev. 0 - 3
   * <a href="https://github.com/svenpetersen1965/PET-IEEE-488-Extension">IEEE-488 Extension/Splitter/Cable Adapter</a> Rev. 0
   * <a href="https://github.com/svenpetersen1965/PET-A-V-Interface">PET A/V Interface</a> Rev. 2
   
