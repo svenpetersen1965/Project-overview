@@ -61,6 +61,7 @@ I am adding a *_noFrame.brd file to the Eagle subfolders right now. Some PCB man
 * <a href="https://github.com/svenpetersen1965/IEC-Bus-Breakout-Board">IEC-bus Breakout Board</a> A breakout board for the IEC bus, drivers and optional level shifters included. Preliminary release!
 * <a href="https://github.com/svenpetersen1965/Versa64case-v2">Versa64case v2</a> Rev. 0: 3D printable case for the Versa64cart newer version
 * <a href="https://github.com/svenpetersen1965/C64-Expansion-Port-Extension">C64 Expansion Port Extension</a> Rev. 0: An extension cable for the Expansion Port
+* <a href="https://github.com/svenpetersen1965/C64-Ultimate-and-Ultimate-64-User-Port-Case"> C64 Ultimate & Ultimate 64 User Port Case</a> Rev. 0
 # C128 Projects
 * <a href="https://github.com/svenpetersen1965/C128-A-V-Adapter">C128 A/V-Adapter</a> Rev. 0 & 1, an audio/video breakout board
 
@@ -87,6 +88,7 @@ I am adding a *_noFrame.brd file to the Eagle subfolders right now. Some PCB man
   * <a href="https://github.com/svenpetersen1965/PET-IEEE-488-Extension">IEEE-488 Extension/Splitter/Cable Adapter</a> Rev. 0
   * <a href="https://github.com/svenpetersen1965/PET-A-V-Interface">PET A/V Interface</a> Rev. 2
   * <a href="https://github.com/svenpetersen1965/PET-Joystick-Adapter">PET Joystick Adapter</a> Rev. 0
+  * <a href="https://github.com/svenpetersen1965/PET-SNES-Gamepad-Adapter">PET SNES Gamepad Adapter</a>  Rev. 1
   
 # Other Projects
   * <a href="https://github.com/svenpetersen1965/RS232-loopback">RS-232 Loopback</a> Rev. 0, a loop back connector for testing serial interfaces<br>
