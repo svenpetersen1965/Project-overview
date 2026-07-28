@@ -45,7 +45,10 @@ I am adding a *_noFrame.brd file to the Eagle subfolders right now. Some PCB man
 * <a href="https://github.com/svenpetersen1965/1541-parallel-adapter-SpeedDOS">Speed DOS adapter for 1541, 1541-2, 1541C and C64</a> Rev. 0
 * <a href="https://github.com/svenpetersen1965/Ultimate-64-Keyboard-Adapter">Keyboard Adapter for the Ultimate 64</a> Rev. 0
 
-<b>6. Diverse</b><br>
+<b>6. Keyboard</b><br>
+* Not completely released: <a href="https://github.com/svenpetersen1965/C64-Keyboard">C64 Keyboard and Kernal Switcher</a> Rev . 0 - 2
+
+<b>7. Diverse</b><br>
 * <a href="https://github.com/svenpetersen1965/C64-Keyboard-Controlled-Kernal-Switch">Keyboard Controlled Kernal Switch</a> Rev. 0 & 1, my coolest and least known project
 * <a href="https://github.com/svenpetersen1965/Pi1541-HAT">Pi1541 Hat</a> Rev. 2, Pi 1541 Hat, a 1541 emuator
 * <a href="https://github.com/svenpetersen1965/C64-WiFi-Modem-User-Port">Wifi Modem for the user port</a> Rev. 0 - 2, also works with the VIC-20 and the PET (adapter required)
