@@ -47,7 +47,7 @@ I am adding a *_noFrame.brd file to the Eagle subfolders right now. Some PCB man
 
 <b>6. Keyboard</b><br>
 * Not completely released: <a href="https://github.com/svenpetersen1965/C64-Keyboard">C64 Keyboard and Kernal Switcher</a> Rev . 0 - 2
-
+* <a href="https://github.com/svenpetersen1965/C64-Keycap-Handling-Tray/">C64, VIC-20, C16 Keycap handling Trayy</a> Rev. 0
 <b>7. Diverse</b><br>
 * <a href="https://github.com/svenpetersen1965/C64-Keyboard-Controlled-Kernal-Switch">Keyboard Controlled Kernal Switch</a> Rev. 0 & 1, my coolest and least known project
 * <a href="https://github.com/svenpetersen1965/Pi1541-HAT">Pi1541 Hat</a> Rev. 2, Pi 1541 Hat, a 1541 emuator
