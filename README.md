@@ -46,7 +46,7 @@ I am adding a *_noFrame.brd file to the Eagle subfolders right now. Some PCB man
 * <a href="https://github.com/svenpetersen1965/Ultimate-64-Keyboard-Adapter">Keyboard Adapter for the Ultimate 64</a> Rev. 0
 
 <b>6. Keyboard</b><br>
-* Not completely released: <a href="https://github.com/svenpetersen1965/C64-Keyboard">C64 Keyboard and Kernal Switcher</a> Rev . 0 - 2
+* <a href="https://github.com/svenpetersen1965/C64-Keyboard">C64 Keyboard and Kernal Switcher</a> Rev . 0 - 2
 * <a href="https://github.com/svenpetersen1965/C64-Keycap-Handling-Tray/">C64, VIC-20, C16 Keycap handling Tray</a> Rev. 0
   
 <b>7. Diverse</b><br>
